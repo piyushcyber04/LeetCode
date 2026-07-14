@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/piyushcyber04/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0198-house-robber](https://github.com/piyushcyber04/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/piyushcyber04/LeetCode/tree/master/0213-house-robber-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/piyushcyber04/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/piyushcyber04/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/piyushcyber04/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/piyushcyber04/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/piyushcyber04/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
@@ -33,5 +35,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/piyushcyber04/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/piyushcyber04/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
