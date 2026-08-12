@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/piyushcyber04/LeetCode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/piyushcyber04/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/piyushcyber04/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/piyushcyber04/LeetCode/tree/master/0322-coin-change) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/piyushcyber04/LeetCode/tree/master/0062-unique-paths) |
 | [0523-continuous-subarray-sum](https://github.com/piyushcyber04/LeetCode/tree/master/0523-continuous-subarray-sum) |
 ## Sliding Window
 |  |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/piyushcyber04/LeetCode/tree/master/0322-coin-change) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/piyushcyber04/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
